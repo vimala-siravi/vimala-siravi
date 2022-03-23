@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vimala Siravi</h1>
 <h3 align="center">Always be curious about What and Y!</h3>
 
-<img align="right" alt="coding" width="250" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimala95&label=Profile%20views&color=0e75b6&style=flat" alt="vimala95" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimala95" alt="vimala95" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript, NestJs, Azure/Durable Functions**
 
