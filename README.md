@@ -15,6 +15,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vimala.siravi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vimala.siravi/0" alt="The secret behind JavaScript’s asynchronous nature #1"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vimala1995/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vimala1995/0" alt="A short, simple portfolio with React & GitHub Pages #2"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vimala1995/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vimala1995/1" alt="Display JSON data in HTML with one function call. #3"></a>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
